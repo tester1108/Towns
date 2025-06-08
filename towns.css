@@ -64,4 +64,5 @@ button#btnDelete {
 	background: #DDD;
 	border-radius: 5px;
 	border: 1px solid #777;
+	display: none;
 }
